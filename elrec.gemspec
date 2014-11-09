@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Elrec::VERSION
   spec.authors       = ["toru1055"]
   spec.email         = ["toru1055h@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Simple elrec client for ruby.}
+  spec.summary       = %q{This is a simple elrec client for ruby.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
