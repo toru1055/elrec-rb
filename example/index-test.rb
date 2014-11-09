@@ -1,4 +1,4 @@
-require "./lib/elrec"
+require "elrec"
 
 indexer = Elrec::Indexer.new
 puts indexer.index(5,2)

@@ -1,4 +1,4 @@
-require "./lib/elrec"
+require "elrec"
 
 searcher = Elrec::Searcher.new
 puts searcher.recommend_from_user_id(1, 10, false)
